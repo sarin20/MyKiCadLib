@@ -1,0 +1,2 @@
+# MyKiCadLib
+My KiCAD components
